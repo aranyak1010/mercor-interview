@@ -178,4 +178,8 @@ The application includes sample candidate data featuring:
 - User authentication and authorization
 - Database integration
 - Email notifications
+<<<<<<< HEAD
 - Candidate
+=======
+- Candidate
+>>>>>>> 8185f6e0bd267d0a0acbd46ecf4cf2c768d432a4
